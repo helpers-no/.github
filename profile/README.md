@@ -2,19 +2,27 @@
 
 We build open-source tools that keep organizations running — with or without the cloud.
 
-Born from the chaos of running Europe's largest refugee transit camp with no IT systems, we learned that digital infrastructure must work anywhere, anytime, under any conditions. That lesson applies far beyond crisis response.
+---
+
+## Where it started
+
+In March 2022, 5,000 refugees arrived daily at the Tesco Centre transit camp near the Polish-Ukrainian border.
+
+No IT systems. No volunteer screening. No logistics tracking. No donation management. No big NGOs. No government funding. Just people who showed up.
+
+Everything was improvised.
+
+We built tools on the ground — a QR-based wristband identification system for aid workers, chauffeurs, and refugees, in collaboration with [SINTEF](https://sintef.no). Featured in **Dagens Næringsliv**: [Databransjen kan hjelpe polske flyktningmottak](https://www.dn.no/innlegg/ukraina/flyktninger/it/innlegg-databransjen-kan-hjelpe-polske-flyktningmottak/2-1-1196672)
+
+That experience taught us: digital infrastructure must work anywhere, anytime, under any conditions. That lesson applies far beyond crisis response.
+
+📋 **[Project board](https://github.com/orgs/helpers-no/projects/1)** · 📖 **[Full README](https://github.com/orgs/helpers-no/projects/1?pane=info)**
 
 ---
 
 ## SovereignSky — Crisis-Ready Operations Platform
 
-A complete sovereign operations platform that organizations can deploy independently of big cloud providers.
-
-### Why
-
-In March 2022, volunteers at the Tesco Centre transit camp on the Polish-Ukrainian border were processing 5,000 refugees daily with no IT systems. No volunteer screening. No logistics tracking. No donation management. Everything was improvised.
-
-SovereignSky exists so that never happens again — to anyone.
+Born from the chaos of running Europe's largest refugee transit camp with no tools, SovereignSky is a sovereign cloud platform that ensures organizations can operate — with or without the cloud.
 
 ### What
 
@@ -44,23 +52,6 @@ SovereignSky exists so that never happens again — to anyone.
 | [sovereignsky-site](https://github.com/helpers-no/sovereignsky-site) | Landing page | [sovereignsky.no](https://sovereignsky.no) |
 
 📋 **[Project board](https://github.com/orgs/helpers-no/projects/2)** · 📖 **[Full README](https://github.com/orgs/helpers-no/projects/2?pane=info)**
-
----
-
-## Where it started — Ukraine Crisis Response (2022)
-
-During the Russian invasion of Ukraine, we developed a QR-based wristband identification system for aid workers, chauffeurs, and refugees — in collaboration with [SINTEF](https://sintef.no).
-
-Featured in **Dagens Næringsliv**: [Databransjen kan hjelpe polske flyktningmottak](https://www.dn.no/innlegg/ukraina/flyktninger/it/innlegg-databransjen-kan-hjelpe-polske-flyktningmottak/2-1-1196672)
-
-| Repo | Purpose |
-|------|---------|
-| [qr-armband](https://github.com/helpers-no/qr-armband) | QR-based wristband identification system |
-| [wristbands-fe](https://github.com/helpers-no/wristbands-fe) | Frontend for the wristband system |
-| [simple-qr](https://github.com/helpers-no/simple-qr) | Python QR generation API |
-| [safe-monitor](https://github.com/helpers-no/safe-monitor) | Safety and communication monitoring |
-
-📋 **[Project board](https://github.com/orgs/helpers-no/projects/1)** · 📖 **[Full README](https://github.com/orgs/helpers-no/projects/1?pane=info)**
 
 ---
 
