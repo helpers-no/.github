@@ -16,9 +16,9 @@ We build open-source tools and infrastructure that aid organisations and volunte
 
 An open developer platform for building, testing, and deploying modern apps — without needing to know Kubernetes, GitOps, or the cloud.
 
-- [devcontainer-toolbox](https://github.com/terchris/devcontainer-toolbox) — A consistent development environment across Windows, Mac, and Linux
-- [urbalurba-infrastructure](https://github.com/terchris/urbalurba-infrastructure) — Zero-friction platform for turning ideas into production-ready solutions
-- [sovereignsky-site](https://github.com/terchris/sovereignsky-site) — Landing page at [sovereignsky.no](https://sovereignsky.no)
+- [devcontainer-toolbox](https://github.com/helpers-no/devcontainer-toolbox) — A consistent development environment across Windows, Mac, and Linux · [dct.sovereignsky.no](https://dct.sovereignsky.no/)
+- [urbalurba-infrastructure](https://github.com/helpers-no/urbalurba-infrastructure) — Zero-friction platform for turning ideas into production-ready solutions · [uis.sovereignsky.no](https://uis.sovereignsky.no/)
+- [sovereignsky-site](https://github.com/helpers-no/sovereignsky-site) — Landing page at [sovereignsky.no](https://sovereignsky.no)
 
 ### Ukraine Crisis Response (2022)
 
