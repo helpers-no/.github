@@ -8,7 +8,7 @@ We build open-source tools that keep organizations running — with or without t
 
 In March 2022, 5,000 refugees arrived daily at the Tesco Centre transit camp near the Polish-Ukrainian border.
 
-No IT systems. No volunteer screening. No logistics tracking. No donation management. No big NGOs. No government funding. Just people who showed up.
+No IT systems. No volunteer screening. No logistics tracking. No donation management. No big NGOs. No government funding. Just people who showed up. Ordinary people like me and you. Some of us were nerds.
 
 Everything was improvised.
 
