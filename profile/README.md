@@ -8,13 +8,11 @@ We build open-source tools that keep organizations running — with or without t
 
 In March 2022, 5,000 refugees arrived daily at the Tesco Centre transit camp near the Polish-Ukrainian border.
 
-No IT systems. No volunteer screening. No logistics tracking. No donation management. No big NGOs. No government funding. Just people who showed up. Ordinary people like me and you. Some of us were nerds. And we decided this must never happen again — the people who show up must get the tools they need to help people in need. So our task became **helping the helpers.**
+No IT systems. No volunteer screening. No logistics tracking. No donation management. No big NGOs. No government funding. Just people who showed up. Ordinary people. Some were nerds. That experience led to a decision: this must never happen again — the people who show up must get the tools they need to help people in need. That became the mission: **helping the helpers.**
 
-Everything was improvised.
+Everything was improvised. The nightmare: children and women disappearing to human traffickers posing as drivers or aid workers. With the help of [SINTEF](https://sintef.no), a QR-based wristband identification system was built to distinguish legitimate helpers from traffickers. Featured in **Dagens Næringsliv**: [Databransjen kan hjelpe polske flyktningmottak](https://www.dn.no/innlegg/ukraina/flyktninger/it/innlegg-databransjen-kan-hjelpe-polske-flyktningmottak/2-1-1196672)
 
-The nightmare: children and women disappearing to human traffickers posing as drivers or aid workers. With the help of [SINTEF](https://sintef.no), we built a QR-based wristband identification system to distinguish legitimate helpers from traffickers. Featured in **Dagens Næringsliv**: [Databransjen kan hjelpe polske flyktningmottak](https://www.dn.no/innlegg/ukraina/flyktninger/it/innlegg-databransjen-kan-hjelpe-polske-flyktningmottak/2-1-1196672)
-
-That experience taught us: digital infrastructure must work anywhere, anytime, under any conditions. That lesson applies far beyond crisis response.
+That was the beginning. Today, a growing team of developers, sysadmins, and volunteers are building on that lesson — creating the tools and infrastructure that were missing when they were needed most. You don't need to have been at the border to be part of this. You just need to care about building things that work when it matters.
 
 📋 **[Project board](https://github.com/orgs/helpers-no/projects/1)** · 📖 **[Full README](https://github.com/orgs/helpers-no/projects/1?pane=info)**
 
