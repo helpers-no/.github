@@ -24,6 +24,8 @@ That experience taught us: digital infrastructure must work anywhere, anytime, u
 
 Born from the chaos of running Europe's largest refugee transit camp with no tools, SovereignSky is a sovereign cloud platform that ensures organizations can operate — with or without the cloud.
 
+**[sovereignsky.no](https://sovereignsky.no/)** — the knowledge platform with databases on laws, datacenters, jurisdictions, and software across 60+ countries, plus all our open-source tools and documentation.
+
 ### What
 
 - **Infrastructure**: Kubernetes-based platform that runs anywhere — on-prem, local datacenter, or sovereign cloud
