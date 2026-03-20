@@ -12,7 +12,7 @@ No IT systems. No volunteer screening. No logistics tracking. No donation manage
 
 Everything was improvised.
 
-We built tools on the ground — a QR-based wristband identification system for aid workers, chauffeurs, and refugees, in collaboration with [SINTEF](https://sintef.no). Featured in **Dagens Næringsliv**: [Databransjen kan hjelpe polske flyktningmottak](https://www.dn.no/innlegg/ukraina/flyktninger/it/innlegg-databransjen-kan-hjelpe-polske-flyktningmottak/2-1-1196672)
+The nightmare: children and women disappearing to human traffickers posing as drivers or aid workers. With the help of [SINTEF](https://sintef.no), we built a QR-based wristband identification system to distinguish legitimate helpers from traffickers. Featured in **Dagens Næringsliv**: [Databransjen kan hjelpe polske flyktningmottak](https://www.dn.no/innlegg/ukraina/flyktninger/it/innlegg-databransjen-kan-hjelpe-polske-flyktningmottak/2-1-1196672)
 
 That experience taught us: digital infrastructure must work anywhere, anytime, under any conditions. That lesson applies far beyond crisis response.
 
