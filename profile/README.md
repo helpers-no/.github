@@ -4,23 +4,13 @@ We build open-source tools that keep organizations running — with or without t
 
 ---
 
-## Where it started
-
-In March 2022, 5,000 refugees arrived daily at the Tesco Centre transit camp near the Polish-Ukrainian border.
-
-No IT systems. No volunteer screening. No logistics tracking. No donation management. No big NGOs. No government funding. Just people who showed up. Ordinary people. Some were nerds. That experience led to a decision: this must never happen again — the people who show up must get the tools they need to help people in need. That became the mission: **helping the helpers.**
-
-Everything was improvised. The nightmare: children and women disappearing to human traffickers posing as drivers or aid workers. With the help of [SINTEF](https://sintef.no), a QR-based wristband identification system was built to distinguish legitimate helpers from traffickers. Featured in **Dagens Næringsliv**: [Databransjen kan hjelpe polske flyktningmottak](https://www.dn.no/innlegg/ukraina/flyktninger/it/innlegg-databransjen-kan-hjelpe-polske-flyktningmottak/2-1-1196672)
-
-That was the beginning. Today, a growing team of developers, sysadmins, and volunteers are building on that lesson — creating the tools and infrastructure that were missing when they were needed most. You don't need to have been at the border to be part of this. You just need to care about building things that work when it matters.
-
-📋 **[Project board](https://github.com/orgs/helpers-no/projects/1)** · 📖 **[Full README](https://github.com/orgs/helpers-no/projects/1?pane=info)**
-
----
-
 ## SovereignSky — Crisis-Ready Operations Platform
 
-Born from the chaos of running Europe's largest refugee transit camp with no tools, SovereignSky is a sovereign cloud platform that ensures organizations can operate — with or without the cloud.
+81% of Norwegian cloud infrastructure runs on US platforms. Hospitals, government agencies, schools, and businesses all depend on Azure, AWS, and Google Cloud — services subject to the US CLOUD Act. A single political decision, a trade conflict, or a cyberattack could make these services unavailable overnight. Organizations that can't operate without their cloud provider will simply stop functioning.
+
+This isn't theoretical. It's the reality that every IT department knows but few have a plan for.
+
+SovereignSky is a sovereign cloud platform that ensures organizations can operate — with or without the cloud.
 
 **[sovereignsky.no](https://sovereignsky.no/)** — the knowledge platform with databases on laws, datacenters, jurisdictions, and software across 60+ countries, plus all our open-source tools and documentation.
 
@@ -57,11 +47,23 @@ Born from the chaos of running Europe's largest refugee transit camp with no too
 
 ## Get involved
 
-We welcome developers, sysadmins, and anyone who wants to help build infrastructure that keeps organizations running when it matters most.
+We welcome developers, sysadmins, and anyone who wants to help build infrastructure that keeps organizations running when it matters most. You don't need to have been at the border to be part of this. You just need to care about building things that work when it matters.
 
 - Browse our [repositories](https://github.com/orgs/helpers-no/repositories)
 - Check out open [issues](https://github.com/search?q=org%3Ahelpers-no+is%3Aissue+is%3Aopen&type=issues)
 - Reach out at **terje@helpers.no**
+
+---
+
+## Where it started
+
+In March 2022, 5,000 refugees arrived daily at the Tesco Centre transit camp near the Polish-Ukrainian border.
+
+No IT systems. No volunteer screening. No logistics tracking. No donation management. No big NGOs. No government funding. Just people who showed up. Ordinary people. Some were nerds. That experience led to a decision: this must never happen again — the people who show up must get the tools they need to help people in need. That became the mission: **helping the helpers.**
+
+Everything was improvised. The nightmare: children and women disappearing to human traffickers posing as drivers or aid workers. With the help of [SINTEF](https://sintef.no), a QR-based wristband identification system was built to distinguish legitimate helpers from traffickers. Featured in **Dagens Næringsliv**: [Databransjen kan hjelpe polske flyktningmottak](https://www.dn.no/innlegg/ukraina/flyktninger/it/innlegg-databransjen-kan-hjelpe-polske-flyktningmottak/2-1-1196672)
+
+📋 **[Project board](https://github.com/orgs/helpers-no/projects/1)** · 📖 **[Full README](https://github.com/orgs/helpers-no/projects/1?pane=info)**
 
 ---
 
